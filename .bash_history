@@ -14,3 +14,7 @@ yum install git -y
 sudo su
 git init
 sudo su
+13.235.114.14
+history
+yum install git -y
+sudo su
