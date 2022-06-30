@@ -18,3 +18,4 @@ sudo su
 history
 yum install git -y
 sudo su
+clear
