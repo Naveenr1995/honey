@@ -12,3 +12,5 @@ git init
 yum update
 yum install git -y
 sudo su
+git init
+sudo su
