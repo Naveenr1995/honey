@@ -19,3 +19,5 @@ history
 yum install git -y
 sudo su
 clear
+sudo su
+sudo -i
