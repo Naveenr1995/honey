@@ -21,3 +21,4 @@ sudo su
 clear
 sudo su
 sudo -i
+sudo su
